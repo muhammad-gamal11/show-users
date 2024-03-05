@@ -1,3 +1,1 @@
-#### Show github users
-##### search users by thier username
-###### show users info 
+project made using HTML, CSS , JAVASCRIPT, ReactJS , ReactRouter , Context API , STYLED COMPONENTS , CHARTS LIBRARY
